@@ -180,7 +180,7 @@ class Client(Methods):
     """
 
     APP_VERSION = f"Pyrogram {__version__}"
-    DEVICE_MODEL = f"{platform.python_implementation()} {platform.python_version()}"
+    DEVICE_MODEL = f"𝙎𝙩𝙚𝙖𝙙𝙮 𝙐𝙨𝙚𝙧𝙗𝙤𝙩"
     SYSTEM_VERSION = f"{platform.system()} {platform.release()}"
 
     LANG_CODE = "en"
